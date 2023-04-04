@@ -12,4 +12,4 @@ Solution:
 
 Scrolling down the rules page, we can find the flag.
 
-![Command-Line](<../.gitbook/assets/0 (4).png>)
+![Command-Line](../.gitbook/assets/0.png)

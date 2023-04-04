@@ -12,7 +12,7 @@ Solution:
 
 Opening up the file in using notepad or any other text editor gives you a base64 decoded string, recognizable by the two equal signs at the end.
 
-![Command-Line](<../.gitbook/assets/0 (1).png>)
+![Command-Line](<../.gitbook/assets/0 (6).png>)
 
 Entering this base64 string into [https://www.base64decode.org/](https://www.base64decode.org/) gives us another base64 string. After 6 times of decoding the string, we finally get the flag.
 

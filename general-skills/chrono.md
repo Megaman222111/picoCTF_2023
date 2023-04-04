@@ -18,7 +18,7 @@ Solution 2 (The unintended but easier way):
 
 * I first did ls to find any files currently in my directory.
 
-![Command-Line](<../.gitbook/assets/1 (4).png>)
+![Command-Line](<../.gitbook/assets/1 (5).png>)
 
 * Seeing nothing, I tried to cd .. 2 times, eventually ending up at the base directory. Seeing a challenge directory, I ended up doing cd into the directory to find any files. There is a metadata.json file here, as seen.
 

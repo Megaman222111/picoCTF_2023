@@ -10,3 +10,5 @@
   * [useless](general-skills/useless.md)
   * [Special](general-skills/special.md)
   * [Specialer](general-skills/specialer.md)
+* [Cryptography](cryptography/README.md)
+  * [ReadMyCert](cryptography/readmycert.md)

@@ -23,4 +23,4 @@ Solution:
 
 * Entering the flag format (picoCTF{Malwarename}) and inserting “Petya”, making it picoCTF{Petya}, gives us the flag!
 
-![Command-Line](<../.gitbook/assets/1 (3).png>)
+![Command-Line](<../.gitbook/assets/1 (4).png>)

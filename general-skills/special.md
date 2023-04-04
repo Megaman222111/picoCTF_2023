@@ -14,15 +14,15 @@ Solution:
 
 SSHing into the server, we see that no normal commands will work such as, ls, cat, and more. These get autocorrected.
 
-![Command-Line](<../.gitbook/assets/0 (2).png>)
+![Command-Line](<../.gitbook/assets/0 (4).png>)
 
 Looking a bit deeper into the question, we can see that it is possible to run files or commands using their full path. Going on Google to see the apth of the ls command, we find out that ls is located in ‘/usr/bin/ls’ and cat is located in ‘/usr/bin/cat’. We try running these and we realize that they work.
 
-![Command-Line](<../.gitbook/assets/1 (1).png>)
+![Command-Line](<../.gitbook/assets/1 (2).png>)
 
 Using ls, we see that there is a directory called ‘blargh’. We try to mention this as an argument for the ls command.
 
-![Command-Line](<../.gitbook/assets/2 (2).png>)
+![Command-Line](<../.gitbook/assets/2 (1).png>)
 
 BINGO! We see a flag.txt file, and now we can use cat to read the flag.txt file in the ‘blargh’ directory.
 

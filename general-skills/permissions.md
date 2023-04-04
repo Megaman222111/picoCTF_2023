@@ -24,11 +24,11 @@ Checking out permissions using sudo -l (and entering our password), we find out 
 
 ![Command-Line](<../.gitbook/assets/0 (5).png>)
 
-We can run vim as root user using sudo vi, for the privilege escalation. ![](<../.gitbook/assets/1 (2).png>)
+We can run vim as root user using sudo vi, for the privilege escalation. ![](<../.gitbook/assets/1 (3).png>)
 
 Now that we are running Vim as root, and we can run command mode inside Vim by using :!sh and then pressing enter.
 
-![Command-Line](<../.gitbook/assets/2 (1).png>)
+![Command-Line](../.gitbook/assets/2.png)
 
 As we can see now, we a shell with root access to the machine.
 
